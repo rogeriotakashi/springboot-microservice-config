@@ -12,4 +12,4 @@ eureka:
       defaultZone: http://localhost:10000/eureka/  
       
 test:
-  url: http://noapplicationlocal:8080
+  url: http://changingurlviacommittest:8080
